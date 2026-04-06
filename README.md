@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🌱 I’m currently working on **Marketing Web App: https://leadzup.site/**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nishant-kumar-692477226/](https://www.linkedin.com/in/nishant-kumar-692477226/)
+- 👨‍💻Linkedin Profile: [https://www.linkedin.com/in/nishant-kumar-692477226/](https://www.linkedin.com/in/nishant-kumar-692477226/)
+- projects -. **Marketing Web App: https://leadzup.site/**, ** https://fujifilm-self.vercel.app/ **, **Drawing web app: https://doodlesdraw.vercel.app/**,
+- miniGames - **https://mrnishant1.github.io/modular_game_components/**
 
 - 📫 How to reach me **nishantkumaragra@gmail.com**
 

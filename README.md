@@ -51,25 +51,25 @@ Final-year CSE undergrad. I build full-stack web apps, real-time systems, and AI
 
 ## Projects
 
-**[Trading RPG Web Game](https://github.com/mrnishant1)** — `JavaScript` `Node.js` `REST APIs`
+**[Trading RPG Web Game](https://vercel.com/mrnishant1s-projects/trade-simulation)** — `JavaScript` `Node.js` `REST APIs`
 
 Live stock market simulation with a real order book engine. Dynamic pricing, event-driven market shifts, and bot traders with distinct strategies. Built end-to-end — heavy on state management and real-time data flow.
 
 ---
 
-**[ExcaliDraw Clone](https://github.com/mrnishant1)** — `React` `WebSockets` `Canvas API`
+**[ExcaliDraw Clone](https://doodlesdraw.vercel.app/)** — `React` `WebSockets` `Canvas API`
 
 Collaborative whiteboard with real-time multi-user drawing sync. Designed the WebSocket layer to handle concurrent sessions and conflict-free canvas state. Dug into event-driven architecture and low-latency communication patterns.
 
 ---
 
-**[FocusMate — AI Productivity Desktop App](https://github.com/mrnishant1)** — `Electron` `React` `CLIP (Xenova)`
+**[FocusMate — AI Productivity Desktop App](https://github.com/mrnishant1/FocusMate)** — `Electron` `React` `CLIP (Xenova)`
 
 Cross-platform desktop app with screen activity monitoring and on-device AI image classification (CLIP `clip-vit-large-patch14`) to detect focus vs distraction. Full ML inference pipeline in JavaScript — no backend server.
 
 ---
 
-**[Reddit Post Marketing Monitor](https://github.com/mrnishant1)** — `Python` `PRAW` `NLP`
+**[Reddit Post Marketing Monitor](https://leadzup.site/)** — `Python` `PRAW` `NLP`
 
 Monitors subreddits continuously and surfaces posts with high marketing potential using NLP heuristics. Automated lead discovery — no manual scanning needed.
 
@@ -78,10 +78,6 @@ Monitors subreddits continuously and surfaces posts with high marketing potentia
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrnishant1&show_icons=true&theme=dark&bg_color=0f172a&title_color=e2e8f0&text_color=94a3b8&icon_color=3b82f6&border_color=1e293b&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnishant1&layout=compact&theme=dark&bg_color=0f172a&title_color=e2e8f0&text_color=94a3b8&border_color=1e293b&hide_border=false" height="150" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mrnishant1" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" />
-</p>

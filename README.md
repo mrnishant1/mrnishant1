@@ -51,6 +51,11 @@ Final-year CSE undergrad. I build full-stack web apps, real-time systems, and AI
 
 ## Projects
 
+**[🎬 Typography Video Editor](https://mrnishant1.github.io/typography_video_editor/)** — `JavaScript` `Node.js` `REST APIs`
+
+A browser-based subtitle and typography editor for creating animated captions and stylish text overlays for videos.
+
+
 **[Trading RPG Web Game](https://vercel.com/mrnishant1s-projects/trade-simulation)** — `JavaScript` `Node.js` `REST APIs`
 
 Live stock market simulation with a real order book engine. Dynamic pricing, event-driven market shifts, and bot traders with distinct strategies. Built end-to-end — heavy on state management and real-time data flow.
